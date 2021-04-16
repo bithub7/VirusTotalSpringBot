@@ -1,0 +1,6 @@
+
+bot:
+  name: botName
+  token: botToken
+  vt_token: virusTotalToken
+  
